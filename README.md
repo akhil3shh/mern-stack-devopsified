@@ -1,5 +1,6 @@
 # MERN Stack DevOpsified !
-![ArchitectureDiagram](Architecture-Diagram.gif)    
+![Project-Architecture](/assets/Project-Architecture.gif)    
+![EKS-Terraform](/assets/EKS-Terraform.gif)  
 
 ## DevSecOps practices for deployment of a 3-tier MERN stack application
 
